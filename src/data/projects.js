@@ -35,7 +35,7 @@ const data = [
   {
     title: '旧金山',
     subtitle: '拍摄地点: 三番',
-    image: '/images/projects/SF.jpg',
+    image: '/images/projects/sf.jpg',
     desc:
       '旧金山. '
       + '人称小重庆',

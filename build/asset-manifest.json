@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/photoWeb/static/css/main.d564fd31.css",
+    "main.js": "/photoWeb/static/js/main.af2cc26f.js",
+    "static/css/421.7a7ce164.chunk.css": "/photoWeb/static/css/421.7a7ce164.chunk.css",
+    "static/js/421.409c1aa2.chunk.js": "/photoWeb/static/js/421.409c1aa2.chunk.js",
+    "static/js/117.288c20a8.chunk.js": "/photoWeb/static/js/117.288c20a8.chunk.js",
+    "static/js/478.087ef4ac.chunk.js": "/photoWeb/static/js/478.087ef4ac.chunk.js",
+    "static/js/922.950c5cf1.chunk.js": "/photoWeb/static/js/922.950c5cf1.chunk.js",
+    "static/js/161.184287e8.chunk.js": "/photoWeb/static/js/161.184287e8.chunk.js",
+    "static/js/18.f09ed55a.chunk.js": "/photoWeb/static/js/18.f09ed55a.chunk.js",
+    "static/js/191.acca9236.chunk.js": "/photoWeb/static/js/191.acca9236.chunk.js",
+    "static/js/209.04592873.chunk.js": "/photoWeb/static/js/209.04592873.chunk.js",
+    "static/js/625.1c4a2298.chunk.js": "/photoWeb/static/js/625.1c4a2298.chunk.js",
+    "static/js/745.214e2a63.chunk.js": "/photoWeb/static/js/745.214e2a63.chunk.js",
+    "index.html": "/photoWeb/index.html",
+    "static/media/about.md": "/photoWeb/static/media/about.8841e86a4b671a219932.md",
+    "main.d564fd31.css.map": "/photoWeb/static/css/main.d564fd31.css.map",
+    "main.af2cc26f.js.map": "/photoWeb/static/js/main.af2cc26f.js.map",
+    "421.7a7ce164.chunk.css.map": "/photoWeb/static/css/421.7a7ce164.chunk.css.map",
+    "421.409c1aa2.chunk.js.map": "/photoWeb/static/js/421.409c1aa2.chunk.js.map",
+    "117.288c20a8.chunk.js.map": "/photoWeb/static/js/117.288c20a8.chunk.js.map",
+    "478.087ef4ac.chunk.js.map": "/photoWeb/static/js/478.087ef4ac.chunk.js.map",
+    "922.950c5cf1.chunk.js.map": "/photoWeb/static/js/922.950c5cf1.chunk.js.map",
+    "161.184287e8.chunk.js.map": "/photoWeb/static/js/161.184287e8.chunk.js.map",
+    "18.f09ed55a.chunk.js.map": "/photoWeb/static/js/18.f09ed55a.chunk.js.map",
+    "191.acca9236.chunk.js.map": "/photoWeb/static/js/191.acca9236.chunk.js.map",
+    "209.04592873.chunk.js.map": "/photoWeb/static/js/209.04592873.chunk.js.map",
+    "745.214e2a63.chunk.js.map": "/photoWeb/static/js/745.214e2a63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d564fd31.css",
+    "static/js/main.af2cc26f.js"
+  ]
+}

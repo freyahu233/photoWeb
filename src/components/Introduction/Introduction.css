@@ -1,0 +1,42 @@
+  #tabs {
+    max-width: 32rem;
+    margin: 2rem 0;
+    overflow: hidden;
+  }
+  
+  #tabs menu {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 0.25rem;
+  }
+  
+  #tabs button {
+    font: inherit;
+    font-size: 0.85rem;
+    background-color: #e6eef3;
+    border: none;
+    border-bottom-color: #f570cb;
+    color: #ef86b2;
+    border-radius: 4px 4px 0 0;
+    padding: 0.75rem 1rem;
+    cursor: pointer;
+    transition: all 0.2s ease-out;
+  }
+  
+  #tabs button:hover,
+  #tabs button.active {
+    background-color: #ece1e9;
+    color: #6d797c;
+  }
+  
+  #tab-content {
+    background-color: #f1f5f7;
+    border-radius: 0 4px 4px 4px;
+    padding: 1rem;
+  }
+  
+  #tab-content li {
+    margin: 0.75rem 0;
+  }
+  
